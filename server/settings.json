@@ -1,0 +1,7 @@
+{
+"filesfoulder" : "files",
+"port" : 2222,
+"tar_name":"app.tar",
+"tar_foulder":"/TAR/",
+"corrupted_timer":600000
+}

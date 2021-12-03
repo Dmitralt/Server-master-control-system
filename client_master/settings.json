@@ -1,0 +1,18 @@
+{"server_port":2222,
+"master_port":2223,
+"connect_ip":"127.0.0.1",
+"filefoulder" : "./files",
+"tarfoulder":"./TAR/",
+"execute_script":"./TAR/intertop/run.js",
+"cmd":"ipconfig",
+"stoplist":["out_lr.json","out_sellers.json"],
+"tar_timeout":3600000,
+"tar_name":"app.tar",
+"archive_foulder":"/TAR/",
+"tar_foulder":"/TEST/",
+"corrupted_timer":600000,
+"tar_hash":"d41d8cd98f00b204e9800998ecf8427e"
+}
+
+
+

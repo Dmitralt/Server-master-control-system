@@ -1,0 +1,6 @@
+{
+"port": 2223,
+"connect_ip":"127.0.0.1",
+"tarfoulder":"/usr/src/app/lockalServer/intertop",
+"execute_script":"/usr/src/app/lockalServer/intertop/run.js"
+}
